@@ -56,8 +56,5 @@ out/
 # App Files
 # --------------------
 .tmp
-dist
-lib
-es
 node_modules/
 coverage
